@@ -1,0 +1,1 @@
+ts-node secupdate-token-metadata.ts
