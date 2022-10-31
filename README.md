@@ -49,6 +49,10 @@ Signature: 3jyUQJhda9F7orJErGcArHXaMKudKNiM3Vvj7mYvLGvKZqKB5aEKR4BTRERPQm3shw7Fi
 
 Run create-token.ts
 /Users/samir/.nvm/versions/node/v17.6.0/bin/node -r ts-node/register create-token.ts
-Let's name some tokens
 sc2SDTrAdqaUxUHVpCWk4j8haH8gK4YZFZzexsPQ2Gg
 MKhzNLLqwbYDMVb94MzHJnu4dGpztXTAQocjAGnqtja7cRAynHiJBtzp3zbiCKoRo7ghHd3soPSmxG5D22AnB1p 
+
+Update the token metadata:
+/Users/samir/.nvm/versions/node/v17.6.0/bin/node -r ts-node/register update-token-metadata.ts
+sc2SDTrAdqaUxUHVpCWk4j8haH8gK4YZFZzexsPQ2Gg
+3W83rUagErUJbSpjvaD5brDyGPJ9QpbvDDBx38xbCjJkWZ2H3AaErskYEMmWusjoaEXPFCsDqLSkScDuJZ7cEeBY

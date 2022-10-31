@@ -11,7 +11,7 @@ export function loadWalletKey(keypairFile: string): web3.Keypair {
 }
 
 async function main() {
-    console.log("Let's name some tokens");
+    console.log("Create token");
 
     const myKeypair = loadWalletKey("sc2SDTrAdqaUxUHVpCWk4j8haH8gK4YZFZzexsPQ2Gg.json")
     console.log(myKeypair.publicKey.toBase58())
